@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 ===============================================
-    ETHICAL HACKERS ᴮᴰ Spam Tool - Educational Edition
+  "ETHICAL HACKERS ZONE" Spam Tool - Educational Edition
     Released By : @hijbullah islam
     Version : 7.0 (Redesigned)
     Purpose : Educational & Cyber Awareness Only
@@ -75,7 +75,7 @@ class LCCYBERZONE:
 ║   Version  : v1.0                                  ║
 ║   Powered  : Python / Termux                       ║
 ║                                                    ║
-║   "Explore The Cyber Zone"                         ║
+║   Explore "ETHICAL HACKERS ZONE"                   ║       
 ╚════════════════════════════════════════════════════╝
 
 
