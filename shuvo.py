@@ -68,10 +68,10 @@ class LCCYBERZONE:
 ║ | |____   | |  | |  | |_| || |____ / ____ \| |____ ║
 ║ |______|  |_|  |_|  |_|_____\_____/_/    \_\______|║
 ║                                                    ║
-║          	  "ETHICAL HACKERS ZONE"                 ║             
+║          	 "ETHICAL HACKERS ZONE"                  ║             
 ║                                                    ║
 ║   Owner    : Hijbullah Islam                       ║      
-║   Telegram : @@shuvo_xy_z                          ║     
+║   Telegram : @shuvo_xy_z                           ║     
 ║   Version  : v1.0                                  ║
 ║   Powered  : Python / Termux                       ║
 ║                                                    ║
