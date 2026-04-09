@@ -1,4 +1,6 @@
-⚡ ETHICAL HACKERS BD - Explore Cyber Zone
+# 
+⚡ ETHICAL HACKERS - _shuvo.xyz_
+
  
  📌 About This Project
 
@@ -8,6 +10,7 @@ ETHICAL HACKERS BD presents a Termux-based SMS Bomber tool that simulates an aut
 This project is built for educational purposes, focusing on Python scripting, terminal automation, and basic ethical hacking concepts in a controlled setup.
 
 
+# 
 👨‍💻 Developer Info
 
 
@@ -19,7 +22,7 @@ Telegram : @shuvo_xy_z
 
 ⚙️ Features
 
-
+# 
 💻 60+ API Integrated
 
 ⚡ Fast and lightweight
@@ -27,7 +30,7 @@ Telegram : @shuvo_xy_z
 🎨 Clean design
 
 👤 User Friendly (Termux supported)
-
+# 
 🛠️ Built With
 
 
@@ -37,6 +40,7 @@ Termux 📱
 
 Bash / CLI scripting
 
+# 
 🚀 Installation (Basic)
 
 
