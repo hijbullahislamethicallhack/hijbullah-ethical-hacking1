@@ -24,10 +24,16 @@ Bash / CLI scripting
 🚀 Installation (Basic)
 
 pkg update && pkg upgrade
+
 pkg install python
+
+
 git clone (https://github.com/hijbullahislamethicallhack/hijbullah-ethical-hacking1)
+
 cd SMS-BOOMBER
+
 python main.py
+
 ⚠️ Disclaimer
 
 This tool is created for EDUCATIONAL PURPOSE only. Do not use for illegal activities. The developer is not responsible for any misuse. Always respect others' privacy and local laws.
