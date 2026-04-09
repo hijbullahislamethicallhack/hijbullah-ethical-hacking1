@@ -68,7 +68,7 @@ class LCCYBERZONE:
 ║ | |____   | |  | |  | |_| || |____ / ____ \| |____ ║
 ║ |______|  |_|  |_|  |_|_____\_____/_/    \_\______|║
 ║                                                    ║
-║          	   HACKERS ᴮᴰ                            ║
+║          	  "ETHICAL HACKERS ZONE"                 ║             
 ║                                                    ║
 ║   Owner    : Hijbullah Islam                       ║      
 ║   Telegram : @@shuvo_xy_z                          ║     
