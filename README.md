@@ -1,10 +1,10 @@
 # 
-⚡ ETHICAL HACKERS - _shuvo.xyz_
+⚡ "ETHICAL HACKERS" - _shuvo.xyz_
 
  
  📌 About This Project
 
-ETHICAL HACKERS BD presents a Termux-based SMS Bomber tool that simulates an automated messaging environment.
+ETHICAL HACKERS  presents a Termux-based SMS Bomber tool that simulates an automated messaging environment.
 
 
 This project is built for educational purposes, focusing on Python scripting, terminal automation, and basic ethical hacking concepts in a controlled setup.
@@ -16,7 +16,7 @@ This project is built for educational purposes, focusing on Python scripting, te
 
 Owner    : Hijbullah Islam
 
-Channel  : ETHICAL HACKERS ᴮᴰ
+
 
 Telegram : @shuvo_xy_z
 
