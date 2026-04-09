@@ -40,16 +40,18 @@ Bash / CLI scripting
 🚀 Installation (Basic)
 
 
-pkg update && pkg upgrade
+# প্যাকেজ আপডেট এবং পাইথন/গিট ইনস্টল
+pkg update && pkg upgrade -y
+pkg install python git -y
 
-pkg install python
-
-
+# গিটহাব থেকে প্রজেক্ট ডাউনলোড
 git clone https://github.com/hijbullahislamethicallhack/hijbullah-ethical-hacking1.git
 
-cd SMS-BOOMBER
+# প্রজেক্ট ফোল্ডারে প্রবেশ
+cd hijbullah-ethical-hacking1
 
-python main.py
+# টুলটি রান করা
+python shuvo.py
 
 ⚠️ Disclaimer
 
