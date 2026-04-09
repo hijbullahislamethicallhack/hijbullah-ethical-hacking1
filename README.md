@@ -25,7 +25,7 @@ Bash / CLI scripting
 
 pkg update && pkg upgrade
 pkg install python
-git clone https://github.com/cyberarafat009/SMS-BOOMBER.git
+git clone (https://github.com/hijbullahislamethicallhack/hijbullah-ethical-hacking1)
 cd SMS-BOOMBER
 python main.py
 ⚠️ Disclaimer
