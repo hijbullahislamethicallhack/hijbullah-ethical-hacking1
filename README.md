@@ -1,10 +1,10 @@
 # 
-⚡ "ETHICAL HACKERS" - _shuvo.xyz_
+⚡ ""ETHICAL HACKERS ZONE"" - _shuvo.xyz_
 
  
  📌 About This Project
 
-ETHICAL HACKERS  presents a Termux-based SMS Bomber tool that simulates an automated messaging environment.
+"ETHICAL HACKERS ZONE" presents a Termux-based SMS Bomber tool that simulates an automated messaging environment.
 
 
 This project is built for educational purposes, focusing on Python scripting, terminal automation, and basic ethical hacking concepts in a controlled setup.
