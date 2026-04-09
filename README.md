@@ -40,17 +40,17 @@ Bash / CLI scripting
 🚀 Installation (Basic)
 
 
-# প্যাকেজ আপডেট এবং পাইথন/গিট ইনস্টল
+# 
 pkg update && pkg upgrade -y
 pkg install python git -y
 
-# গিটহাব থেকে প্রজেক্ট ডাউনলোড
+# 
 git clone https://github.com/hijbullahislamethicallhack/hijbullah-ethical-hacking1.git
 
-# প্রজেক্ট ফোল্ডারে প্রবেশ
+# 
 cd hijbullah-ethical-hacking1
 
-# টুলটি রান করা
+#
 python shuvo.py
 
 ⚠️ Disclaimer
